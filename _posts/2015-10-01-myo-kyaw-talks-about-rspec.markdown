@@ -4,7 +4,7 @@ title:      "Getting Started with RSpec and Capybara"
 subtitle:   "Supercharge your TDD with RSpec"
 date:       2015-10-01 12:00:00
 author:     "Myo T Kyaw"
-header-img: "img/home-office2.jpg"
+header-img: "img/home-office3.jpg"
 ---
 
 ## Background on Myo
